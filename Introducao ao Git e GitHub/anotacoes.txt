@@ -1,1 +1,11 @@
 Site oficial do Git: https://git-scm.com/
+
+Primeiros comandos do Git:
+- git init
+- git add
+- git commit
+
+#1 Criando Primeiro Repositório
+
+** Criar um diretório para seu projeto
+-- $ git init (comando para inicilizar o git no diretório)
