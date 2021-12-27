@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 22px;
+}
+
+.App {
+    background-color: rgb(116, 12, 81);
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

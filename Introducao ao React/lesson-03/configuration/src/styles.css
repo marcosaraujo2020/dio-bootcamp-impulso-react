@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 22px;
+}
+
+.App {
+    background-color: rgb(8, 129, 129);
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 40px;
+}
